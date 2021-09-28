@@ -1,0 +1,93 @@
+■ 開発
+〇ウォーターフォール開発
+〇アジャイル開発
+〇マイグレーション
+〇デグレーション
+〇デプロイ
+〇コンフリクト
+〇環境
+　・開発環境（ローカル）
+　・検証環境（ステージング）
+　・本番環境
+〇設計書／仕様書
+　・要件定義
+　・基本設計書
+　・詳細設計書
+〇テスト
+　・単体テスト（UT）
+　・結合テスト（CT／IT）
+　・総合テスト（ST）
+〇エビデンス／証跡
+〇データパッチ
+〇Access
+〇マクロ
+　・VBA
+〇GAS（Google Apps Script）
+〇API
+　・WEB API
+　・REST API
+　・SOAP
+〇Ajax
+　・XML
+　・JSON
+・ステータスコード
+　・クロスオリジン（Cross-Origin）／CORS（Cross-Origin Resource Sharing）
+〇バリデーション
+〇データ連携
+　・Daemon
+　・CRON
+　・バッチ
+　・ログ
+　・CSV
+　・TSV
+〇プルリクエスト（マージリクエスト）
+■ チケット管理ツール
+〇asana
+〇Backlog
+〇Jooto
+〇Readmine
+〇Trello
+■ バージョン管理
+〇集中型
+〇分散型
+〇Github
+〇Backlog
+〇SourceTree
+〇Tortoise SVN
+〇Git Flow
+　・master
+　・release
+　・develop
+	・feature
+■ FW／ライブラリ
+〇FW
+　・Spring Framework
+　・Struts
+　・JSF（Java Server Faces）
+〇ライブラリ
+　・Bootstrap
+　・Flyway
+　・Jackson
+　・jQuery
+　・Junit
+　・Log4j
+　・Lombok
+　・ORM
+■ 連絡ツール
+〇ChatWork
+〇Slack
+〇IP Messenger
+■ Java
+〇Javadoc
+〇アノテーション
+〇メモリ管理
+　・ヒープ
+　・GC
+〇GoF
+〇デザインパターン
+■ その他
+〇オブジェクト指向
+〇バッチ処理
+〇コンパイル
+〇カバレッジ
+〇プラットホーム
